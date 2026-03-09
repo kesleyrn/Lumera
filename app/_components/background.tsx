@@ -21,7 +21,7 @@ export default function HeroSection() {
            At Luméra, we help people feel confident and beautiful every day.
            Our cosmetics are made to enhance natural beauty and keep your skin healthy and glowing.
             <br /><br />
-            Our focus is on quality, elegance, and care, ensuring every product brings comfort, confidence, and a glowing look to our customers.
+           Our focus is on quality and care, making products that help you feel confident and look naturally beautiful.
           </p>
           <button className="flex items-center gap-4 text-white text-sm tracking-wide">
             <span className="w-10 h-10 rounded-full border border-white/30 flex items-center justify-center text-base">
