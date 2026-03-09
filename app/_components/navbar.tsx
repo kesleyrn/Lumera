@@ -12,7 +12,7 @@ export default function Navbar() {
         shadow-[0_8px_32px_rgba(0,0,0,0.4),inset_0_1px_0_rgba(255,80,80,0.08),0_0_20px_2px_rgba(204,34,34,0.15)]
         "
         >
-          <div className="">Lumera Logo</div>
+          <div className="">Lumera</div>
           <div className="flex  space-x-4 ">
             <Link href={""}>Home</Link>
             <Link href={""}>Product</Link>

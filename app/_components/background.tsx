@@ -12,21 +12,22 @@ export default function HeroSection() {
         {/* LEFT — text */}
         <div className="relative z-10 max-w-sm">
           <span className="text-gray-500 text-xs uppercase tracking-[0.2em]">
-            Our Version
+            OUR PROMISE
           </span>
           <h1 className="text-white font-black lg:text-9xl text-8xl tracking-tight leading-none mt-2 mb-5">
-            DESIGN
+            BEAUTY
           </h1>
           <p className="text-gray-400 text-sm leading-relaxed mb-8">
-            Our hobby is a modern and convenient design, the
-            <br />
-            key to successful communication with the client.
+           At Luméra, we help people feel confident and beautiful every day.
+           Our cosmetics are made to enhance natural beauty and keep your skin healthy and glowing.
+            <br /><br />
+            Our focus is on quality, elegance, and care, ensuring every product brings comfort, confidence, and a glowing look to our customers.
           </p>
           <button className="flex items-center gap-4 text-white text-sm tracking-wide">
             <span className="w-10 h-10 rounded-full border border-white/30 flex items-center justify-center text-base">
               →
             </span>
-            See More
+            Beauty that shines naturally.
           </button>
         </div>
 
